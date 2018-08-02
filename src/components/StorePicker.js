@@ -4,7 +4,7 @@ export class StorePicker extends Component {
   render() {
     return (
       <div>
-        <h1>Ketan's Store Picker</h1>
+        <h1>Ketan's Store</h1>
       </div>
     )
   }
